@@ -8,6 +8,25 @@
                   
 Everything Accordion enables you to handle the output style with different options in module setting. You can easily set background color, icon type, margin and padding,... for the title and body of the slides. Also, there are some other options to set the displaying category, author name, create date and publish date. For K2 items, you can determine you want to show author's avatar or  the image of K2 item as the featured image.                            
                        
+## Main features:               
+- Displaying of modules in accordion slides           
+- Displaying Joomla articles             
+- Displaying K2 items           
+- Filtering the content based on categories               
+- Different customized options                
+- Creating the slides for the custom content              
+- Fast and flexible                    
+
+## Requirements:                           
+- Joomla                        
+
+## Instructions:               
+
+- Download this module
+- Install this module via Admin Backend
+- Configure the setting of this module at Admin Backend  
+
+
 Using this module is easy and fast and it can be installed on Joomla 2.5.x, Joomla 3.x. If you like to use K2 options of this module, please install latest version of K2.                            
                       
 
