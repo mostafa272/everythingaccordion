@@ -25,6 +25,12 @@ Everything Accordion enables you to handle the output style with different optio
 - Download this module
 - Install this module via Admin Backend
 - Configure the setting of this module at Admin Backend  
+                    
+## Demo         
+https://github.com/mostafa272/everythingaccordion/wiki/Demo              
+
+## Documentation       
+https://github.com/mostafa272/everythingaccordion/wiki/Documentation           
 
 
 Using this module is easy and fast and it can be installed on Joomla 2.5.x, Joomla 3.x. If you like to use K2 options of this module, please install latest version of K2.                            
